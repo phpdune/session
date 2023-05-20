@@ -1,6 +1,6 @@
 {
    "name":"dune/session",
-   "description":"Template Engine for PHP - Dune framework component",
+   "description":"Session package for PHP , dune framework component",
    "type":"library",
    "license":"MIT",
    "support":{
